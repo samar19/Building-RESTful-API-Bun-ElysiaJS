@@ -1,4 +1,4 @@
-# Elysia with Bun runtime
+# Elysia with Bun and restful api
 
 ## Development
 To start the development server run:
